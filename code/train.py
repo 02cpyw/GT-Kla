@@ -11,7 +11,7 @@ from datetime import datetime
 import numpy as np
 import copy
 
-from gihub_code.code.models.GTKla import GTKla
+from models.GTKla import GTKla
 root_dir = "root_dir"
 model_info = "GNNcor_CLAD"
 results_type = "results_test"
