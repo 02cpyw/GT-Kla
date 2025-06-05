@@ -8,11 +8,17 @@ a temporal-weighted attention mechanism that integrates
 sequence and distance-based geometric information, offering
 a novel approach for the prediction of lysine lactylation
 sites. 
+
 2、Our model outperforms the current outstanding Kla
 site prediction models on both constructed and publicly
 available Kla datasets, which demonstrates GT-Kla’s strong
 robustness.
+
 3、Performance in Kcr and S/T phosphorylation site prediction
 tasks highlights the remarkable generalization ability of GT-
 Kla, offering a solution approach for other types of PTM site
 prediction tasks.
+
+
+![新建 PPTX 演示文稿](https://github.com/user-attachments/assets/94a2e35f-36ca-4e8d-b045-c3472f366812)
+
