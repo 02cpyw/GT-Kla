@@ -41,13 +41,18 @@ git clone https://github.com/02cpyw/GT-Kla.git
 __2.Creating conda environment:__
 
 ```sh
-conda create --name the_name_of_your_environ python=3.8.20
-source activate the_name_of_your_environ
+conda create --name GT-Kla python=3.8.20
+source activate GT-Kla
 ```
 
 __3.Running code to train the model:__
 
 ```python
 python ./code/train.py
+```
+__4.Running code to inference on the model:__
+
+```python
+python ./code/test.py
 ```
 
